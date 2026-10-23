@@ -7,6 +7,7 @@ Repository này tập hợp các công cụ hỗ trợ cho quá trình phát tri
 ## Mục lục
 
 - [1. Search tool — tạo metadata tìm kiếm cho PosterMaker](#1-search-tool--tạo-metadata-tìm-kiếm-cho-postermaker)
+- [2. Bundletool — build và cài ứng dụng Android](#2-bundletool--build-và-cài-ứng-dụng-android)
 
 ## 1. Search tool — tạo metadata tìm kiếm cho PosterMaker
 
@@ -24,3 +25,13 @@ Quy trình chính:
 Thư mục công cụ: [`populate-templates-meta/`](./populate-templates-meta/)
 
 Hướng dẫn cài đặt, cấu hình, lệnh CLI và quy trình publish: [`populate-templates-meta/README.md`](./populate-templates-meta/README.md).
+
+## 2. Bundletool — build và cài ứng dụng Android
+
+`bundletool` chứa script Windows để build gói cài đặt từ Android App Bundle (`.aab`) và cài lên thiết bị Android đang kết nối. Chạy `push_aab.bat` trong thư mục công cụ.
+
+- Nếu `output.apks` đã tồn tại, script bỏ qua bước build và cài gói đó.
+- Nếu chưa có output, script build từ file `.aab` đầu tiên tìm thấy trong thư mục `bundletool`.
+- Muốn build AAB khác, xóa `output.apks` cũ và chuyển các AAB không dùng vào thư mục con như `tmp`, chỉ để AAB cần build ở thư mục chính.
+
+Xem yêu cầu chuẩn bị và hướng dẫn chi tiết tại [`bundletool/README.md`](./bundletool/README.md).
