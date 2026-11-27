@@ -1,0 +1,151 @@
+{
+  "name": "night_street_kiosk_20261127_1440",
+  "createdAt": "2026-11-27T14:40:34+07:00",
+  "source": {
+    "file": "GettyImages-635803766.mp41.mp4",
+    "sha256": "76a11c0bda878f6779c707467e0c634ce423a04efe2284e82b00815d04e86347",
+    "lastPath": "C:\\Projects\\Support Tool\\video-template-data\\input\\GettyImages-635803766.mp41.mp4"
+  },
+  "titles": {
+    "en": "Night Street Lightbox",
+    "am": "የሌሊት ጎዳና ላይትቦክስ",
+    "ar": "صندوق إعلانات ليلي",
+    "bg": "Нощен уличен лайтбокс",
+    "bn": "নাইট স্ট্রিট লাইটবক্স",
+    "ca": "Caixó luminós de carrer",
+    "cs": "Noční pouliční lightbox",
+    "da": "Natlig gadelysboks",
+    "de": "Nacht-Straßen-Lightbox",
+    "el": "Φωτεινό πλαίσιο δρόμου",
+    "es": "Caja de luz nocturna",
+    "fa": "لایت باکس خیابانی شب",
+    "fr": "Caisson lumineux de rue",
+    "hi": "नाइट स्ट्रीट लाइटबॉक्स",
+    "hr": "Noćni ulični svjetleći pano",
+    "hu": "Éjszakai utcai világítódoboz",
+    "in": "Kotak Lampu Jalan Malam",
+    "it": "Insegna luminosa stradale",
+    "iw": "שלט מואר ברחוב בלילה",
+    "ja": "夜のストリートライトボックス",
+    "ka": "ღამის ქუჩის ლაითბოქსი",
+    "ko": "야간 거리 라이트박스",
+    "lt": "Naktinė gatvės šviesdėžė",
+    "mn": "Шөнийн гудамжны гэрэлт самбар",
+    "mr": "नाईट स्ट्रीट लाइटबॉक्स",
+    "ms": "Kotak Cahaya Jalan Malam",
+    "nl": "Nachtelijke straatlichtbak",
+    "no": "Nattlig gatelysboks",
+    "pl": "Nocny kaseton reklamowy",
+    "pt": "Caixa de luz noturna",
+    "ro": "Casetă luminoasă de stradă",
+    "ru": "Ночной уличный лайтбокс",
+    "sk": "Nočný pouličný lightbox",
+    "sl": "Nočna ulična svetlobna tablica",
+    "sr": "Ноћни улични светлећи пано",
+    "sv": "Nattlig gatu-ljuslåda",
+    "sw": "Kibao cha Taa cha Usiku",
+    "ta": "இரவு தெரு லைட்பாக்ஸ்",
+    "te": "నైట్ స్ట్రీట్ లైట్‌బాక్స్",
+    "th": "ไลท์บ็อกซ์ถนนยามค่ำคืน",
+    "tr": "Gece Sokak Işıklı Pano",
+    "uk": "Нічний вуличний лайтбокс",
+    "vi": "Hộp đèn đường đêm",
+    "zh": "夜景街头灯箱"
+  },
+  "titlesSource": "ai",
+  "overrides": {
+    "group": null,
+    "previewFrame": null,
+    "posterRatio": null,
+    "expandPx": null,
+    "despill": null,
+    "previewCrf": null,
+    "manualQuads": {}
+  },
+  "build": {
+    "at": "2026-11-27T14:40:34+07:00",
+    "group": "A",
+    "frames": 337,
+    "fps": "30000/1001",
+    "size": [
+      1280,
+      720
+    ],
+    "expandPx": 2,
+    "blurPx": [
+      1.0,
+      1.0
+    ],
+    "despill": true,
+    "previewFrame": 214,
+    "posterRatio": {
+      "w": 2,
+      "h": 3
+    },
+    "posterRatioMeasured": 0.6436,
+    "posterSize": [
+      392,
+      588
+    ],
+    "interpolatedFrames": [],
+    "stats": {
+      "maxCornerDevPx": 0.07,
+      "okFrames": 337,
+      "blurSamples": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "keyColor": {
+        "hue": 60.0,
+        "sat": 255.0,
+        "val": 255.0
+      },
+      "posterLongestPx": 587.1
+    },
+    "probe": {
+      "sha256": "76a11c0bda878f6779c707467e0c634ce423a04efe2284e82b00815d04e86347",
+      "width": 1280,
+      "height": 720,
+      "rotation": 0,
+      "r_fps": "30000/1001",
+      "avg_fps": "30000/1001",
+      "vfr": false,
+      "target_fps": "30000/1001",
+      "nb_frames": 337,
+      "duration": 11.244567,
+      "vcodec": "h264",
+      "pix_fmt": "yuv420p",
+      "color_space": "unknown",
+      "has_audio": true,
+      "audio_codec": "aac"
+    },
+    "outputs": {
+      "video.mp4": "a370f434080e8a9ef3553b092c118d5d732665ccd337b24bf6f3900f080d22d7",
+      "placeholder.json": "90a94ece51d73a58a65983ff4f628bddfe4a923f92b5ca5c7b1fd091af2c4ea8",
+      "thumb.webp": "3dd8ba47fc23352afa01ce86b998c129bd3c917f9985b34dfd393b8506db90de",
+      "preview.mp4": "f4dde7334cc73a245e4ed61e175ca8fc5f9d360bc07e734e8ce4093f4a9fc02f"
+    },
+    "warnings": [
+      {
+        "code": "temp_sample",
+        "message": "Biểu tượng + chữ của ảnh mẫu đang cắt tạm từ ảnh tham chiếu 850 px (hơi mờ khi khung lớn); có assets/sample_poster_content.png độ phân giải cao thì build lại trước publish"
+      }
+    ]
+  },
+  "review": null,
+  "publish": null
+}

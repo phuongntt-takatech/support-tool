@@ -1,0 +1,112 @@
+{
+  "ai": {
+    "provider": "gemini",
+    "models": [
+      "gemini-3.8-flash",
+      "gemini-3.6-flash",
+      "gemini-3.5-flash-lite"
+    ],
+    "rpm": 4,
+    "thinkingBudget": null,
+    "maxAttempts": 5,
+    "rateLimitSwitchAfter": 3
+  },
+  "normalize": {
+    "maxFps": 30
+  },
+  "detect": {
+    "learnFrames": 5,
+    "hueTol": 14,
+    "minSat": 70,
+    "minVal": 35,
+    "minAreaFrac": 0.003,
+    "secondRegionFrac": 0.2,
+    "cornerExcludeFrac": 0.08,
+    "refineRangePx": 4.0,
+    "maxLineRmsPx": 1.5,
+    "minFillRatio": 0.96,
+    "sceneCutDiff": 60.0
+  },
+  "temporal": {
+    "staticPx": 1.0,
+    "smoothSigma": 1.0,
+    "jumpPx": 8.0,
+    "maxGapFrames": 5
+  },
+  "bleed": {
+    "greenExcessThr": 12,
+    "maxRingPx": 10,
+    "safetyPx": 1,
+    "capPx": 6,
+    "spreadWarnPx": 2,
+    "sampleFrames": 15
+  },
+  "despill": {
+    "bandPx": 6
+  },
+  "posterRatio": {
+    "tolerance": 0.05,
+    "standards": [
+      "1:1",
+      "4:5",
+      "3:4",
+      "2:3",
+      "9:16",
+      "5:4",
+      "4:3",
+      "3:2",
+      "16:9"
+    ]
+  },
+  "previewFrame": {
+    "edgeFrac": 0.1,
+    "staticMiddleFrac": 0.3
+  },
+  "posterMaxPx": 2048,
+  "bleedPx": 2,
+  "samplePoster": {
+    "content": "assets/sample_poster_content.png",
+    "reference": "assets/sample_poster_reference.jpg",
+    "referenceContentBox": [
+      100,
+      218,
+      750,
+      862
+    ],
+    "designWidthPx": 850,
+    "background": "#FFFFFF",
+    "borderColor": "#545EF3",
+    "insetPx": 16.5,
+    "strokePx": 3.5,
+    "radiusPx": 11,
+    "dashPx": 18,
+    "gapPx": 15,
+    "contentMaxW": 0.765,
+    "contentMaxH": 0.568,
+    "contentCenterY": 0.476
+  },
+  "videoEncode": {
+    "crf": 18,
+    "preset": "slow"
+  },
+  "thumb": {
+    "width": 540,
+    "quality": 80
+  },
+  "preview": {
+    "shortSide": 360,
+    "crf": 28,
+    "preset": "slower",
+    "maxFps": 24,
+    "keyintSec": 2,
+    "denoise": "hqdn3d=1.5:1.5:3:3",
+    "warnMB": 0.6
+  },
+  "review": {
+    "leakExcessThr": 40,
+    "leakFrac": 0.02,
+    "jitterPx": 0.5,
+    "nearCapPx": 5,
+    "sheetFrames": 12
+  }
+}

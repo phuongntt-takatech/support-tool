@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+config.local.json
+# Video nguồn: bỏ vào input/, không đưa lên git
+input/*
+!input/.gitkeep
