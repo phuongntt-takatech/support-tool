@@ -1,0 +1,6 @@
+# Ghim phiên bản để chạy lại sau này ra đúng kết quả (D1.7).
+# Cài: .venv\Scripts\python -m pip install -r requirements.txt
+# AI (Gemini) gọi qua REST bằng thư viện chuẩn của Python, không cần thêm thư viện.
+numpy==2.4.6
+opencv-python==5.1.0.95
+Pillow==13.0.0

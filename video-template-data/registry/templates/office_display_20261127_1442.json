@@ -1,0 +1,155 @@
+{
+  "name": "office_display_20261127_1442",
+  "createdAt": "2026-11-27T14:42:14+07:00",
+  "source": {
+    "file": "GettyImages-884826562.mp4",
+    "sha256": "132eb56f7c38c61a82fe4b020092fbeb897b045716be856631deab65490daea8",
+    "lastPath": "C:\\Projects\\Support Tool\\video-template-data\\input\\GettyImages-884826562.mp4"
+  },
+  "titles": {
+    "en": "Office Display",
+    "am": "ቢሮ ማሳያ",
+    "ar": "لوحة عرض المكتب",
+    "bg": "Офис дисплей",
+    "bn": "অফিস ডিসপ্লে",
+    "ca": "Pantalla d'oficina",
+    "cs": "Kancelářský displej",
+    "da": "Kontordisplay",
+    "de": "Büro-Display",
+    "el": "Οθόνη γραφείου",
+    "es": "Pantalla de oficina",
+    "fa": "نمایشگر دفتر",
+    "fr": "Écran de bureau",
+    "hi": "ऑफिस डिस्प्ले",
+    "hr": "Zaslon u uredu",
+    "hu": "Irodai kijelző",
+    "in": "Tampilan Kantor",
+    "it": "Display da ufficio",
+    "iw": "תצוגת משרד",
+    "ja": "オフィスディスプレイ",
+    "ka": "ოფისის დისპლეი",
+    "ko": "오피스 디스플레이",
+    "lt": "Biuro ekranas",
+    "mn": "Оффисын дэлгэц",
+    "mr": "ऑफिस डिस्प्ले",
+    "ms": "Paparan Pejabat",
+    "nl": "Kantoordisplay",
+    "no": "Kontordisplay",
+    "pl": "Wyświetlacz biurowy",
+    "pt": "Ecrã de escritório",
+    "ro": "Afișaj de birou",
+    "ru": "Дисплей в офисе",
+    "sk": "Kancelársky displej",
+    "sl": "Pisarniški zaslon",
+    "sr": "Канцеларијски дисплеј",
+    "sv": "Kontorsdisplay",
+    "sw": "Onyesho la Ofisi",
+    "ta": "அலுவலக காட்சி",
+    "te": "ఆఫీస్ డిస్ప్లే",
+    "th": "จอแสดงผลในออฟฟิศ",
+    "tr": "Ofis Ekranı",
+    "uk": "Дисплей в офісі",
+    "vi": "Màn hình văn phòng",
+    "zh": "办公室展示牌"
+  },
+  "titlesSource": "ai",
+  "overrides": {
+    "group": null,
+    "previewFrame": null,
+    "posterRatio": null,
+    "expandPx": null,
+    "despill": null,
+    "previewCrf": null,
+    "manualQuads": {}
+  },
+  "build": {
+    "at": "2026-11-27T14:42:14+07:00",
+    "group": "B",
+    "frames": 332,
+    "fps": "25/1",
+    "size": [
+      1280,
+      720
+    ],
+    "expandPx": 2,
+    "blurPx": [
+      1.0,
+      1.0
+    ],
+    "despill": true,
+    "previewFrame": 82,
+    "posterRatio": {
+      "w": 0.48,
+      "h": 1
+    },
+    "posterRatioMeasured": 0.4832,
+    "posterSize": [
+      292,
+      608
+    ],
+    "interpolatedFrames": [],
+    "stats": {
+      "maxCornerDevPx": 121.73,
+      "okFrames": 332,
+      "blurSamples": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "keyColor": {
+        "hue": 60.0,
+        "sat": 255.0,
+        "val": 183.0
+      },
+      "posterLongestPx": 607.8
+    },
+    "probe": {
+      "sha256": "132eb56f7c38c61a82fe4b020092fbeb897b045716be856631deab65490daea8",
+      "width": 1280,
+      "height": 720,
+      "rotation": 0,
+      "r_fps": "25/1",
+      "avg_fps": "25/1",
+      "vfr": false,
+      "target_fps": "25/1",
+      "nb_frames": 332,
+      "duration": 13.28,
+      "vcodec": "h264",
+      "pix_fmt": "yuv420p",
+      "color_space": "bt709",
+      "has_audio": false,
+      "audio_codec": null
+    },
+    "outputs": {
+      "video.mp4": "6979c97a8221e2c42d0c0418f1823f6ddf24b624cb98f927f5094194e05ee174",
+      "placeholder.json": "e219b59ca97d0b81d0ce21e4d72e17dd58bd0a420fea77082f19db89822f41b6",
+      "thumb.webp": "655f1300370075cd7cf779a3b96fc4ec7b77deafcf895129a8822b6f4aa47213",
+      "preview.mp4": "c360cf01ef127ff793a697b70ac9af6e5fa15fa2f1fb6b92111c1b199a40ae91"
+    },
+    "warnings": [
+      {
+        "code": "ratio_nonstandard",
+        "message": "posterRatio đo được 0.483 không khớp tỷ lệ chuẩn"
+      },
+      {
+        "code": "temp_sample",
+        "message": "Biểu tượng + chữ của ảnh mẫu đang cắt tạm từ ảnh tham chiếu 850 px (hơi mờ khi khung lớn); có assets/sample_poster_content.png độ phân giải cao thì build lại trước publish"
+      }
+    ]
+  },
+  "review": null,
+  "publish": null
+}

@@ -1,0 +1,154 @@
+{
+  "name": "skyscraper_billboard_20261127_1439",
+  "createdAt": "2026-11-27T14:39:17+07:00",
+  "source": {
+    "file": "Display_Electronics_720x1280.mp4",
+    "sha256": "9b3e039d1755cde9728bb0aae6ad5ac2b9129c87733f4307e424258dabf8e8ac",
+    "lastPath": "C:\\Projects\\Support Tool\\video-template-data\\input\\Display_Electronics_720x1280.mp4"
+  },
+  "titles": {
+    "en": "Skyscraper Billboard",
+    "am": "የሰማይ ጠቀስ ህንፃ ቢልቦርድ",
+    "ar": "لوحة ناطحة سحاب",
+    "bg": "Билборд на небостъргач",
+    "bn": "স্কাইস্ক্রেপার বিলবোর্ড",
+    "ca": "Tanca de rascacel",
+    "cs": "Billboard na mrakodrapu",
+    "da": "Skyskraber billboard",
+    "de": "Wolkenkratzer Billboard",
+    "el": "Πινακίδα σε ουρανοξύστη",
+    "es": "Valla en rascacielos",
+    "fa": "بیلبورد آسمان‌خراش",
+    "fr": "Panneau de gratte-ciel",
+    "hi": "गगनचुम्बी बिलबोर्ड",
+    "hr": "Billboard na neboderu",
+    "hu": "Felhőkarcoló óriásplakát",
+    "in": "Baliho Pencakar Langit",
+    "it": "Cartellone su grattacielo",
+    "iw": "שלט חוצות על גורד שחקים",
+    "ja": "超高層ビル看板",
+    "ka": "ცათამბჯენის ბილბორდი",
+    "ko": "초고층 빌딩 전광판",
+    "lt": "Dangoraižio bilbordas",
+    "mn": "Тэнгэр баганадсан барилгын самбар",
+    "mr": "स्कायस्क्रॅपर बिलबोर्ड",
+    "ms": "Papan Iklan Pencakar Langit",
+    "nl": "Wolkenkrabber billboard",
+    "no": "Skyskraper-billboard",
+    "pl": "Billboard na wieżowcu",
+    "pt": "Outdoor em arranha-céus",
+    "ro": "Panou pe zgârie-nori",
+    "ru": "Билборд на небоскребе",
+    "sk": "Billboard na mrakodrape",
+    "sl": "Plakat na nebotičniku",
+    "sr": "Билборд на небодеру",
+    "sv": "Skyskrapa billboard",
+    "sw": "Bango la Ghorofa",
+    "ta": "விண்முட்டு மாளிகை விளம்பரப்பலகை",
+    "te": "స్కైస్క్రాపర్ బిల్బోర్డ్",
+    "th": "ป้ายบิลบอร์ดตึกสูง",
+    "tr": "Gökdelen Panosu",
+    "uk": "Білборд на хмарочосі",
+    "vi": "Biển quảng cáo nhà cao tầng",
+    "zh": "摩天大楼广告牌"
+  },
+  "titlesSource": "ai",
+  "overrides": {
+    "group": null,
+    "previewFrame": null,
+    "posterRatio": null,
+    "expandPx": null,
+    "despill": null,
+    "previewCrf": null,
+    "manualQuads": {}
+  },
+  "build": {
+    "at": "2026-11-27T14:39:17+07:00",
+    "group": "B",
+    "frames": 300,
+    "fps": "30/1",
+    "size": [
+      720,
+      1280
+    ],
+    "expandPx": 4,
+    "blurPx": [
+      1.0,
+      3.0
+    ],
+    "despill": true,
+    "previewFrame": 204,
+    "posterRatio": {
+      "w": 0.62,
+      "h": 1
+    },
+    "posterRatioMeasured": 0.6194,
+    "posterSize": [
+      622,
+      1003
+    ],
+    "interpolatedFrames": [],
+    "stats": {
+      "maxCornerDevPx": 132.8,
+      "okFrames": 300,
+      "blurSamples": [
+        1.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "keyColor": {
+        "hue": 68.0,
+        "sat": 254.0,
+        "val": 255.0
+      },
+      "posterLongestPx": 1002.9
+    },
+    "probe": {
+      "sha256": "9b3e039d1755cde9728bb0aae6ad5ac2b9129c87733f4307e424258dabf8e8ac",
+      "width": 720,
+      "height": 1280,
+      "rotation": 0,
+      "r_fps": "30/1",
+      "avg_fps": "30/1",
+      "vfr": false,
+      "target_fps": "30/1",
+      "nb_frames": 300,
+      "duration": 10.0,
+      "vcodec": "h264",
+      "pix_fmt": "yuv420p",
+      "color_space": "unknown",
+      "has_audio": true,
+      "audio_codec": "aac"
+    },
+    "outputs": {
+      "video.mp4": "03e90a986b84eb529e6885f2b0e19195489c618d3f6a619bd63b7e9ab1c68aea",
+      "placeholder.json": "274502eca74d4a2afc6ab754df0e4ee2a6b738a082411028d285fdcd68f3c1ec",
+      "thumb.webp": "e7d46f8dcd5fcd1c4a59238e29e78ad8b37167fbaeb06e7a4d092aaf8a370557",
+      "preview.mp4": "73e183b9b1832f0ad11fbbe39baa9fccc53e0e8d6e756b5779c95c1ea649d6db"
+    },
+    "warnings": [
+      {
+        "code": "ratio_nonstandard",
+        "message": "posterRatio đo được 0.619 không khớp tỷ lệ chuẩn"
+      },
+      {
+        "code": "temp_sample",
+        "message": "Biểu tượng + chữ của ảnh mẫu đang cắt tạm từ ảnh tham chiếu 850 px (hơi mờ khi khung lớn); có assets/sample_poster_content.png độ phân giải cao thì build lại trước publish"
+      }
+    ]
+  },
+  "review": null,
+  "publish": null
+}
